@@ -1,1 +1,2 @@
-# BETsales
+# BETsales is a simple e-commerce which I model after popular site of Jumia. User can only view the content while only the admin reserves the exclusive right to add content. This project was implemented using Sequelize, ExpressJS, Vanilla JavaScript. Postman was used for documentation and Jira was used for task management. The API's were also subjected to testing which was organically written.
+This simple project exposed me to real life usage of all I was taught in the bootcamp.
